@@ -60,13 +60,9 @@
 
 <img width="60px" src="https://i.imgur.com/JyPriVg.png"/>
 
-</p>
-
-<h7 align="center">
-
 [GDSC 2021 Solution Challenge Top50](https://developers.google.com/profile/badges/events/community/dsc-2021-solution-top-50 )
 
-</h7>
+</p>
 
 
 
@@ -74,16 +70,6 @@
 <h2 align="center">
 <img width="25px" src="https://i.imgur.com/kYtIpeu.png"/> Contact Me <img width="25px" src="https://i.imgur.com/kYtIpeu.png"/>
 </h2>
-
-<p align="center">
-
-<img width="60px" src="https://img.icons8.com/bubbles/100/000000/link.png"/>
-<img width="60px" src="https://img.icons8.com/bubbles/100/000000/facebook.png"/>
-<img width="60px" src="https://img.icons8.com/bubbles/100/000000/instagram.png"/>
-<img width="60px" src="https://img.icons8.com/bubbles/100/000000/sent.png"/>
-<img width="60px" src="https://img.icons8.com/bubbles/100/000000/github.png"/>
-    
-</p>
 
 <!-- [](www.linkedin.com/in/Jessie-Hsieh-OuO) -->
 <!-- [](facebook.com/JessieHsieh.OuO) -->
