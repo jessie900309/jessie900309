@@ -25,11 +25,13 @@
 
 
 
-<!-- 補Icon -->
-<div style="text-align:center";>
+<p align="center">
 
 ## <img width="25px" src="https://i.imgur.com/kYtIpeu.png"/> Languages and Tools <img width="25px" src="https://i.imgur.com/kYtIpeu.png"/>
+    
+</p>
 
+<p align="center">
 
 <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
     
@@ -53,8 +55,7 @@
     
 <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
-
-</div>
+</p>
 
 <!-- 得獎紀錄 -->
 <div style="text-align:center";>
