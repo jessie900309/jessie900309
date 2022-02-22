@@ -60,6 +60,10 @@
 
 <img width="60px" src="https://i.imgur.com/JyPriVg.png"/>
 
+</p>
+
+<p align="center">
+
 [GDSC 2021 Solution Challenge Top50](https://developers.google.com/profile/badges/events/community/dsc-2021-solution-top-50 )
 
 </p>
@@ -78,12 +82,16 @@
 <img width="60px" src="https://img.icons8.com/bubbles/100/000000/instagram.png"/>
 <img width="60px" src="https://img.icons8.com/bubbles/100/000000/sent.png"/>
 <img width="60px" src="https://img.icons8.com/bubbles/100/000000/github.png"/>
+    
+</p>
 
-[](www.linkedin.com/in/Jessie-Hsieh-OuO)
-[](facebook.com/JessieHsieh.OuO)
-[](https://www.instagram.com/hanamiya_0309/)
-[](https://t.me/OuOjessie/)
-[](https://github.com/jessie900309)
+<!-- [](www.linkedin.com/in/Jessie-Hsieh-OuO) -->
+<!-- [](facebook.com/JessieHsieh.OuO) -->
+<!-- [](https://www.instagram.com/hanamiya_0309/) -->
+<!-- [](https://t.me/OuOjessie/) -->
+<!-- [](https://github.com/jessie900309) -->
+
+<p align="center">
 
 <img width="25px" src="https://icongr.am/clarity/cursor-hand-click.svg?size=60&color=currentColor"> Click or Email : [jessie60125@gmail.com]()
 
