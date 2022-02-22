@@ -58,7 +58,9 @@
 
 <p align="center">
 
-[<img width="60px" src="https://i.imgur.com/JyPriVg.png"/>](https://developers.google.com/profile/badges/events/community/dsc-2021-solution-top-50 )
+<img width="60px" src="https://i.imgur.com/JyPriVg.png"/>
+
+[GDSC 2021 Solution Challenge Top50](https://developers.google.com/profile/badges/events/community/dsc-2021-solution-top-50 )
 
 </p>
 
@@ -71,7 +73,11 @@
 
 <p align="center">
     
-[<img width="60px" src="https://img.icons8.com/bubbles/100/000000/link.png"/>](www.linkedin.com/in/Jessie-Hsieh-OuO)[<img width="60px" src="https://img.icons8.com/bubbles/100/000000/facebook.png"/>](facebook.com/JessieHsieh.OuO)[<img width="60px" src="https://img.icons8.com/bubbles/100/000000/instagram.png"/>](https://www.instagram.com/hanamiya_0309/)[<img width="60px" src="https://img.icons8.com/bubbles/100/000000/sent.png"/>](https://t.me/OuOjessie/)[<img width="60px" src="https://img.icons8.com/bubbles/100/000000/github.png"/>](https://github.com/jessie900309)
+[<img width="60px" src="https://img.icons8.com/bubbles/100/000000/link.png"/>](www.linkedin.com/in/Jessie-Hsieh-OuO)
+[<img width="60px" src="https://img.icons8.com/bubbles/100/000000/facebook.png"/>](facebook.com/JessieHsieh.OuO)
+[<img width="60px" src="https://img.icons8.com/bubbles/100/000000/instagram.png"/>](https://www.instagram.com/hanamiya_0309/)
+[<img width="60px" src="https://img.icons8.com/bubbles/100/000000/sent.png"/>](https://t.me/OuOjessie/)
+[<img width="60px" src="https://img.icons8.com/bubbles/100/000000/github.png"/>](https://github.com/jessie900309)
 
 <img width="25px" src="https://icongr.am/clarity/cursor-hand-click.svg?size=60&color=currentColor"> Click or Email : [jessie60125@gmail.com]()
 
