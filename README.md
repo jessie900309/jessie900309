@@ -62,11 +62,11 @@
 
 </p>
 
-<p align="center">
+<h7 align="center">
 
 [GDSC 2021 Solution Challenge Top50](https://developers.google.com/profile/badges/events/community/dsc-2021-solution-top-50 )
 
-</p>
+</h7>
 
 
 
