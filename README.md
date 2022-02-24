@@ -56,13 +56,13 @@
 <img width="25px" src="https://i.imgur.com/kYtIpeu.png"/> Badge <img width="25px" src="https://i.imgur.com/kYtIpeu.png"/>
 </h2>
 
-<p align="center">
+<h4 align="center">
 
 <img width="60px" src="https://i.imgur.com/JyPriVg.png"/>
 
 [GDSC 2021 Solution Challenge Top50](https://developers.google.com/profile/badges/events/community/dsc-2021-solution-top-50 )
 
-</p>
+</h4>
 
 
 
