@@ -93,9 +93,9 @@
 <img width="25px" src="https://i.imgur.com/kYtIpeu.png"/> Others <img width="25px" src="https://i.imgur.com/kYtIpeu.png"/>
 </h2>
 
-<p align="center">
+<h6 align="center">
 
 Title icons by [flaticon](https://www.flaticon.com/free-icons/flower) 
 Social media icons by [Icons8](https://icons8.com/)
 
-</p>
+</h6>
