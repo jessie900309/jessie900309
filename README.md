@@ -35,17 +35,17 @@
 
 <p align="center">
 
-<img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-<img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-<img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-<img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-<img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-<img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/></code>
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /></code>
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></code>
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" /></code>
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code>
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /></code>
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /></code>
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 
 </p>
 
@@ -71,11 +71,14 @@
 <img width="25px" src="https://i.imgur.com/kYtIpeu.png"/> Contact Me <img width="25px" src="https://i.imgur.com/kYtIpeu.png"/>
 </h2>
 
-<!-- [](www.linkedin.com/in/Jessie-Hsieh-OuO) -->
-<!-- [](facebook.com/JessieHsieh.OuO) -->
-<!-- [](https://www.instagram.com/hanamiya_0309/) -->
-<!-- [](https://t.me/OuOjessie/) -->
-<!-- [](https://github.com/jessie900309) -->
+
+<code></code>
+
+[](www.linkedin.com/in/Jessie-Hsieh-OuO)
+[](facebook.com/JessieHsieh.OuO)
+[](https://www.instagram.com/hanamiya_0309/)
+[](https://t.me/OuOjessie/)
+[](https://github.com/jessie900309)
 
 <p align="center">
 
