@@ -33,7 +33,7 @@
 <img width="25px" src="https://i.imgur.com/kYtIpeu.png"/> Languages and Tools <img width="25px" src="https://i.imgur.com/kYtIpeu.png"/>
 </h2>
 
-<p align="center">
+<center>
 
 <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/></code>
 <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /></code>
@@ -47,7 +47,7 @@
 <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /></code>
 <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 
-</p>
+</center>
 
 
 
