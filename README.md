@@ -71,18 +71,8 @@
 <img width="25px" src="https://i.imgur.com/kYtIpeu.png"/> Contact Me <img width="25px" src="https://i.imgur.com/kYtIpeu.png"/>
 </h2>
 
-
-
-[](www.linkedin.com/in/Jessie-Hsieh-OuO)
-[](facebook.com/JessieHsieh.OuO)
-[](https://www.instagram.com/hanamiya_0309/)
-[](https://t.me/OuOjessie/)
-[](https://github.com/jessie900309)
-
 <h4 align="center">
-
-<img width="25px" align="center" src="https://icongr.am/clarity/cursor-hand-click.svg?size=60&color=currentColor"> Click or Email : [jessie60125@gmail.com]()
-
+<img width="25px" align="center" src="https://icongr.am/clarity/cursor-hand-click.svg?size=60&color=currentColor"> [LinkedIn](www.linkedin.com/in/Jessie-Hsieh-OuO)
 </h4>
 
 
