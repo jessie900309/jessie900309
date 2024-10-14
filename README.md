@@ -1,6 +1,6 @@
 # Hi, I'm Jessie Hsieh! OuO
 
-
+###### tags: `GitHub`
 
 <!-- 經歷 -->
 <h2 align="center">
@@ -72,7 +72,9 @@
 </h2>
 
 <h4 align="center">
-<img width="25px" align="center" src="https://icongr.am/clarity/cursor-hand-click.svg?size=60&color=currentColor"> [LinkedIn](https://www.linkedin.com/in/Jessie-Hsieh-OuO/)
+
+<img width="25px" align="center" src="https://icongr.am/clarity/cursor-hand-click.svg?size=60&color=currentColor"> [LinkedIn](www.linkedin.com/in/Jessie-Hsieh-OuO)
+
 </h4>
 
 
